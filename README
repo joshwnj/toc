@@ -1,0 +1,3 @@
+Having a go at a table-of-contents script after reading http://www.wait-till-i.com/2010/01/06/the-table-of-contents-script-my-old-nemesis/
+
+I was curious to see how it could be done by DOM traversal, rather than fetching everything up-front.
